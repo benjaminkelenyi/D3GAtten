@@ -57,5 +57,7 @@ python demo.py
 ```
 ![d3gatten](https://user-images.githubusercontent.com/22835687/169040368-dd1ad3b4-001c-49ec-97c3-f6d34eee06cc.gif)
 
+## Smartcam demo - ADI
+
 
 
