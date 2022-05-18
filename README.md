@@ -4,7 +4,7 @@
 Detecting reliable geometric features is the key to creating a successful point-cloud registration. Point-cloud processing for extracting geometric features can be difficult, due to their invariance and the fact that most of them are corrupted by noise. In this work, we propose a new architecture, D3GATTEN, to solve this challenge, which allows to extract strong features, which later on can be used for point-cloud regis- tration, object reconstruction, and tracking. The key to our architecture is the use of the self-attention module to extract powerful features. Finally, compared with the most current methods, our architecture has achieved competitive results. Thoughtful tests were performed on the 3DMatch dataset, and it outperformed the existing state of the art. We  also demonstrated that getting the best features is the essence of point- cloud alignment.
 
 ## Overview
-[net_arch.pdf](https://github.com/benjaminkelenyi/D3GAtten/files/8714937/net_arch.pdf)
+![net_archPNG](https://user-images.githubusercontent.com/22835687/169006113-ab8abe44-aee2-4cd3-ab24-d81cbad6e23c.PNG)
 
 ## Content
 - [Prerequisites](#prerequisites)
