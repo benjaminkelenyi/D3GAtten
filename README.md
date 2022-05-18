@@ -45,6 +45,7 @@ python test.py
 We provide the pre-trained model of 3DMatch in ```results/```.
 
 ## Results 
+![reg_res](https://user-images.githubusercontent.com/22835687/169007947-fd57d63a-3737-4bb3-b8ee-8d3ca5be3bb4.PNG)
 
 
 ## Demo
