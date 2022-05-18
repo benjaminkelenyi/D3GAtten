@@ -15,7 +15,7 @@ Our proposed network architecture
 - [Pretrained Model](#pretrainedmodel)
 - [Results](#results)
 - [Demo](#demo)
-- [Smartcam demo - ADI](#smartcam-demo-adi)
+- [SmartCam demo - ADI](#smartcam-demo---adi)
 
 ## Prerequisites
 1.  Create the environment and install the required libaries:
