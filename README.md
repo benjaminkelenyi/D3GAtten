@@ -50,7 +50,7 @@ Example results on 3DMatch dataset. The point clouds that will be registered are
 ![reg_res](https://user-images.githubusercontent.com/22835687/169007947-fd57d63a-3737-4bb3-b8ee-8d3ca5be3bb4.PNG)
 
 
-## Demo
+## Demo with own data
 We provide a small demo to extract dense feature and detection score for two point cloud, and register them using RANSAC. To try the demo, please run:
 ```
 python demo.py
