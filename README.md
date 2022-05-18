@@ -58,6 +58,19 @@ python demo.py
 ![d3gatten](https://user-images.githubusercontent.com/22835687/169040368-dd1ad3b4-001c-49ec-97c3-f6d34eee06cc.gif)
 
 ## Smartcam demo - ADI
+1. To use the camera, please follow the instructions [here](https://github.com/tamaslevente/trai/blob/master/README.md).
+2. Getting images from the ADI smart camera:
+```
+rosrun pcl_ros pointcloud_to_pcd input:=/topic/name
+```
+3. Convert images to ```.ply``` format: 
+```
+pcl_pcd2ply [-format 0|1] [-use_camera 0|1] input.pcd output.ply
+```
+4. Run the demo
+```
+python demo.py --generate_features
+```
 
 
 
