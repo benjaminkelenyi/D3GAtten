@@ -45,7 +45,7 @@ python test.py
 We provide the pre-trained model of 3DMatch in ```results/```.
 
 ## Results 
-Example results on 3DMatch dataset:
+Example results on 3DMatch dataset. The point clouds that will be registered are represented by the first two columns (a) and (b). The standard deviation of the two point clouds is represented in the third column (c), and the result produced after performing the transformation is represented in the last column (d).
 
 ![reg_res](https://user-images.githubusercontent.com/22835687/169007947-fd57d63a-3737-4bb3-b8ee-8d3ca5be3bb4.PNG)
 
