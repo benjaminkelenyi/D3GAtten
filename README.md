@@ -50,6 +50,8 @@ Example results on 3DMatch dataset. The point clouds that will be registered are
 
 ![reg_res](https://user-images.githubusercontent.com/22835687/169007947-fd57d63a-3737-4bb3-b8ee-8d3ca5be3bb4.PNG)
 
+The obtained proper correspondences are highlighted in green here. The erroneous correspondences are shown with red.
+
 ![Screen Recording (12-20-2022 2-30-59 PM) (1)](https://user-images.githubusercontent.com/22835687/208668579-e05f1340-340e-48d4-9799-b7cf7faf0e5d.gif)
 
 ## Demo with own data
